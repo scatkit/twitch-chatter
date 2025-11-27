@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      openai:
+        specifier: ^6.9.1
+        version: 6.9.1(ws@8.18.3)
       tmi.js:
         specifier: ^1.8.5
         version: 1.8.5
@@ -15,6 +18,9 @@ importers:
       '@types/node':
         specifier: ^24.10.1
         version: 24.10.1
+      '@types/tmi.js':
+        specifier: ^1.8.6
+        version: 1.8.6
       typescript:
         specifier: ^5.9.3
         version: 5.9.3
@@ -24,6 +30,9 @@ packages:
   '@types/node@24.10.1':
     resolution: {integrity: sha512-GNWcUTRBgIRJD5zj+Tq0fKOJ5XZajIiBroOF0yvj2bSU1WvNdYS/dn9UxwsujGW4JX06dnHyjV2y9rRaybH0iQ==}
 
+  '@types/tmi.js@1.8.6':
+    resolution: {integrity: sha512-LVzNK7AxTMyh9qHLanAQR1o0I9XzfbIcXk85cx85igmCJHHO1Sm71sdhQ8Mj1WmRGzynPIoCXx6mVaFynWbsQw==}
+
   node-fetch@2.7.0:
     resolution: {integrity: sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==}
     engines: {node: 4.x || >=6.0.0}
@@ -31,6 +40,18 @@ packages:
       encoding: ^0.1.0
     peerDependenciesMeta:
       encoding:
+        optional: true
+
+  openai@6.9.1:
+    resolution: {integrity: sha512-vQ5Rlt0ZgB3/BNmTa7bIijYFhz3YBceAA3Z4JuoMSBftBF9YqFHIEhZakSs+O/Ad7EaoEimZvHxD5ylRjN11Lg==}
+    hasBin: true
+    peerDependencies:
+      ws: ^8.18.0
+      zod: ^3.25 || ^4.0
+    peerDependenciesMeta:
+      ws:
+        optional: true
+      zod:
         optional: true
 
   tmi.js@1.8.5:
@@ -72,9 +93,15 @@ snapshots:
     dependencies:
       undici-types: 7.16.0
 
+  '@types/tmi.js@1.8.6': {}
+
   node-fetch@2.7.0:
     dependencies:
       whatwg-url: 5.0.0
+
+  openai@6.9.1(ws@8.18.3):
+    optionalDependencies:
+      ws: 8.18.3
 
   tmi.js@1.8.5:
     dependencies:

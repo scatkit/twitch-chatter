@@ -1,0 +1,184 @@
+[
+    {
+        "timestamp": "07:30",
+        "username": "spamBot1",
+        "message": "купите подписку",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:30",
+        "username": "troll123",
+        "message": "лол",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:31",
+        "username": "nightbot",
+        "message": "Поддержать стримера донатиком - https://www.donationalerts.com/r/superevgexa",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:31",
+        "username": "chatBotX",
+        "message": "💰💰💰",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:38",
+        "username": "user999",
+        "message": "сколько еще будет идти стрим??",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:31",
+        "username": "randomUser1",
+        "message": "что за игра?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:32",
+        "username": "spamBot2",
+        "message": "ссылка на приватку",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:32",
+        "username": "user123",
+        "message": "че делаешь?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:32",
+        "username": "spamBot3",
+        "message": "подписывайся на канал",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:32",
+        "username": "spamBot000",
+        "message": "бро сколько ты зааработал сегодня за стрим?",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:33",
+        "username": "troll456",
+        "message": "ahahah",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:33",
+        "username": "nightbot",
+        "message": "Привет! Поддержи стримера!",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:33",
+        "username": "spamBot4",
+        "message": "скинь донат",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:34",
+        "username": "user456",
+        "message": "ну и как?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:34",
+        "username": "spamBot5",
+        "message": "смотри на приватку",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:34",
+        "username": "randomUser2",
+        "message": "кто выиграл?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:35",
+        "username": "spamBot6",
+        "message": "💎💎💎",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:35",
+        "username": "troll789",
+        "message": "gg",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:35",
+        "username": "spamBot7",
+        "message": "ссылка на сайт",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:36",
+        "username": "user789",
+        "message": "лол, снова это?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:36",
+        "username": "spamBot8",
+        "message": "подпишись на канал",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:36",
+        "username": "randomUser3",
+        "message": "кто-то может помочь?",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:37",
+        "username": "spamBot9",
+        "message": "переходи по ссылке",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:37",
+        "username": "troll999",
+        "message": "че за трэш",
+        "bot": false,
+        "answered": false
+    },
+    {
+        "timestamp": "07:37",
+        "username": "spamBot10",
+        "message": "💸💸💸",
+        "bot": true,
+        "answered": false
+    },
+    {
+        "timestamp": "07:38",
+        "username": "spamBot11",
+        "message": "donate pls",
+        "bot": true,
+        "answered": false
+    }
+]

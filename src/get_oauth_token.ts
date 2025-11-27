@@ -29,7 +29,6 @@ export async function getOauthToken() {
     return await deviceAuth();
 };
 
-
 async function deviceAuth() {
     const params = new URLSearchParams({
         client_id: authConfig.twitchClientId,

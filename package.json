@@ -1,20 +1,18 @@
 {
   "name": "twitch-bot",
+  "type": "module",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx tsx index.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "packageManager": "pnpm@10.4.1",
   "dependencies": {
+    "openai": "^6.9.1",
     "tmi.js": "^1.8.5"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
+    "@types/tmi.js": "^1.8.6",
     "typescript": "^5.9.3"
   }
 }
